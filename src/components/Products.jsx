@@ -9,7 +9,7 @@ return (
 <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4">
 {products.map(p=> (
 <div key={p.id} className="p-4 bg-white rounded-lg shadow-sm">
-<div className="h-36 bg-gray-100 rounded mb-3 flex items-center justify-center">{p.image}</div>
+<div className="w-full bg-gray-100 rounded mb-3 flex items-center justify-center"><img src={p.image} alt={p.name} /></div>
 <h3 className="font-medium">{p.name}</h3>
 <div className="text-sm text-gray-500">{p.short}</div>
 <div className="mt-3 flex items-center justify-between">

@@ -12,7 +12,7 @@ return (
 </div>
 </div>
 <div className="flex-1">
-<div className="w-100 bg-gray-100 rounded-lg flex items-center justify-center"><img src="/assets/images/website_images/brilliant_computer_shop_image_for_web.jpg" alt="Brilliant Computer, Juhapura, Ahmedabad-380055" /></div>
+<div className="w-100 bg-gray-100 rounded-lg flex items-center justify-center"><img src="/assets/images/website_images/brilliant_computer_entrance.jpg" alt="Brilliant Computer, Juhapura, Ahmedabad-380055" /></div>
 </div>
 </div>
 </section>
